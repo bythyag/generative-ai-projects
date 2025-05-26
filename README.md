@@ -3,13 +3,10 @@
 ## about.
 this repository contains llm workbooks containg in-book experiements of the book **build a large language model (from scratch)** by sebastian raschka. he also writes amazing blogs !
 
-(book link:)[https://www.amazon.in/Build-Large-Language-Model-Scratch/dp/1633437167]
-
-(blog link:)[https://sebastianraschka.com/]
-
-(book github link:)[https://github.com/rasbt/LLMs-from-scratch]
-
-(youtube course link:)[https://www.youtube.com/watch?v=UU1WVnMk4E8]
+1. [build a large language model (from scratch)](https://www.amazon.in/Build-Large-Language-Model-Scratch/dp/1633437167)
+2. [sebastian raschka blogs](https://sebastianraschka.com/)
+3. [reference notebooks](https://github.com/rasbt/LLMs-from-scratch)
+4. [freecodecamp](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
 ## concepts.
 
